@@ -15,6 +15,7 @@ public class DemoApplication {
 		//master
 		System.out.println("aaa -> bbb develop 수정");
 		System.out.println("master 추가");
+		System.out.println("master2 추가");
 	}
 
 }
