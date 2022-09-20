@@ -17,6 +17,7 @@ public class DemoApplication {
 		System.out.println("master 추가");
 		System.out.println("master2 추가");
 		System.out.println("master3 추가");
+		System.out.println("master4 추가");
 	}
 
 }
