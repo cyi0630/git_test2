@@ -20,6 +20,7 @@ public class DemoApplication {
 		System.out.println("develop3 추가");
 		System.out.println("master3 추가");
 		System.out.println("master4 추가");
+		System.out.println("master5 추가");
 	}
 
 }
