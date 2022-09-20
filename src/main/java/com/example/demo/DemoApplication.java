@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("aaa -> bbb develop 수정");
 		System.out.println("develop 추가");
+		System.out.println("master 추가");
 	}
 
 }
